@@ -1,0 +1,11 @@
+{
+  "x": 1119,
+  "y": 1083,
+  "scale": 5,
+  "outfit": "auto",
+  "progress": true,
+  "prompt_text": true,
+  "walk": true,
+  "notify": true,
+  "sound": true
+}

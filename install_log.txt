@@ -1,0 +1,6 @@
+=== 2026-10-28  1:25:49.78 
+D:\Software\Pycharm\python.exe
+ -V:3.14 *        D:\Pycharm\python.exe
+ -V:3.13          C:\Users\minha\AppData\Local\Programs\Python\Python313\python.exe
+Using: D:\Software\Pycharm\python.exe 
+Started 

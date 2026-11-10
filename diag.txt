@@ -1,0 +1,22 @@
+TOP | TkTopLevel | 'tk'
+TOP | Chrome_WidgetWin_1 | 'Claude'
+TOP | Chrome_WidgetWin_1 | 'Claude'
+TOP | Chrome_WidgetWin_1 | 'Status'
+TOP | Chrome_WidgetWin_1 | 'ChatGPT'
+TOP | CASCADIA_HOSTING_WINDOW_CLASS | 'C:\\Windows\\system32\\cmd.exe'
+TOP | CabinetWClass | 'vee-mascot - File Explorer'
+TOP | CabinetWClass | 'gpt - File Explorer'
+TOP | Chrome_WidgetWin_1 | 'ChatGPT'
+TOP | Shell_TrayWnd | 'Taskbar'
+TOP | Chrome_WidgetWin_1 | 'WhatsApp - Brave'
+TOP | CEF-OSC-WIDGET | 'NVIDIA GeForce Overlay'
+TOP | #32770 | 'Python Launcher is sorry to say ...'
+TOP | Progman | 'Program Manager'
+
+== WINDOW Chrome_WidgetWin_1 'Claude'
+types: {'PaneControl': 11, 'DocumentControl': 2, 'GroupControl': 5, 'TextControl': 1}
+buttons: []
+
+== WINDOW Chrome_WidgetWin_1 'Claude'
+types: {'PaneControl': 15, 'ButtonControl': 12, 'DocumentControl': 4, 'GroupControl': 34, 'StatusBarControl': 7, 'TextControl': 130, 'ToolBarControl': 1}
+buttons: ['Back', 'Close', 'Copy', 'Forward', 'Maximize', 'Menu', 'Minimize', 'More options', 'Restore', 'Show sidebar', 'Stop']

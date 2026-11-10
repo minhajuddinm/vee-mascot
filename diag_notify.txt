@@ -1,0 +1,23 @@
+db exists: True
+claude handlers: [(586, 'Claude_pzs8sxrjxfjjc!Claude'), (667, 'Claude_pzs8sxrjxfjjc!MakeDataFolder'), (644, 'Claude_pzs8sxrjxfjjc!SshAskpass'), (645, 'Claude_pzs8sxrjxfjjc!SshProxy'), (540, 'Microsoft.YourPhone_8wekyb3d8bbwe!YourPhoneNotifications_com.anthropic.claude')]
+
+== Claude_pzs8sxrjxfjjc!Claude: 6 recent
+400103 134372418515912154 ['Claude', 'Claude is using your computer. You can press Stop anytime.']
+400093 134372418369538377 ['Undergrad research job applications', 'Claude needs your input to continue']
+399983 134372415358701771 ['Pixel art mascot from photos', 'Claude needs permission to continue using your computer']
+399682 134372401140291041 ['Agensi email reply', 'Claude needs your input to continue']
+397588 134371222552912634 ["Arghavan's email and template", 'Claude needs your input to continue']
+397434 134370790312852001 ['Meeting preparation briefing', 'Claude needs your input to continue']
+
+== Claude_pzs8sxrjxfjjc!MakeDataFolder: 0 recent
+
+== Claude_pzs8sxrjxfjjc!SshAskpass: 0 recent
+
+== Claude_pzs8sxrjxfjjc!SshProxy: 0 recent
+
+== Microsoft.YourPhone_8wekyb3d8bbwe!YourPhoneNotifications_com.anthropic.claude: 5 recent
+400020 134372416426946615 ['Claude', 'Claude needs your permission: Request Access', '']
+400017 134372416379987789 ['Claude', 'Undergrad research job applications', 'Claude wants to use the browser on workforcenow.adp.com']
+399991 134372415393618424 ['Claude', 'Claude needs your permission: Computer Request Access', '']
+399982 134372415347496609 ['Claude', 'Pixel art mascot from photos', 'Claude wants to use File Explorer and Pythonw on your computer']
+399778 134372409206751045 ['Claude', 'Undergrad research job applications', 'Claude wants to use the browser on boards-api.greenhouse.io']

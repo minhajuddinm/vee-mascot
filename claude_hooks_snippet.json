@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      { "hooks": [ { "type": "command", "command": "D:/Software/Pycharm/python.exe D:/vee-mascot/vee_hook.py work" } ] }
+    ],
+    "PreToolUse": [
+      { "matcher": "", "hooks": [ { "type": "command", "command": "D:/Software/Pycharm/python.exe D:/vee-mascot/vee_hook.py work" } ] }
+    ],
+    "Notification": [
+      { "matcher": "permission_prompt", "hooks": [ { "type": "command", "command": "D:/Software/Pycharm/python.exe D:/vee-mascot/vee_hook.py need" } ] }
+    ],
+    "Stop": [
+      { "hooks": [ { "type": "command", "command": "D:/Software/Pycharm/python.exe D:/vee-mascot/vee_hook.py done" } ] }
+    ]
+  }
+}
